@@ -1,4 +1,4 @@
-Hello! I'm Krisian and I'm an electrical engineering gradute who codes here and there.
+Hello! I'm Krisian and I'm an electrical engineering graduate who codes here and there.
 You can find the projects that I previously and currently am working on here.
 
 <!---
